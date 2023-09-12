@@ -18,11 +18,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hello friend,
 
-
-
 I am a research assistant at [Crowd Cognition](https://crowdcognition.net/) and have gotten my bachelor degree from the [University of Tehran](https://ut.ac.ir/en) in Electrical Engineering. I am broadly interested in understanding and modeling human behavior.
 
-For now, I'm studying how people's behavior changes in groups. [Planning ahead](https://www.nature.com/articles/s41586-023-06124-2), [Pavlovian bias](https://linkinghub.elsevier.com/retrieve/pii/S105381191200420X), and perceiving and looking at visual arts are some of the behaviors I study in group settings.
+For now, I'm studying how people's behavior changes in groups. [Planning ahead](https://www.nature.com/articles/s41586-023-06124-2), [Pavlovian bias](https://linkinghub.elsevier.com/retrieve/pii/S105381191200420X), and perceiving and looking at visual arts are some of the behaviors I study in group settings. Here's my [CV](/assets/pdf/CV.pdf)
 
 Outside of work, I like my friends, good writing of almost any kind, good music and films of all genres, mountains, running, (table) tennis, adventurous trips, and quality tea.
 
