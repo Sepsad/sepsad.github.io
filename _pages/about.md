@@ -24,7 +24,7 @@ Previously, I worked as a Research Assistant at LMU Munich's [Crowd Cognition](h
 
 For the moment, My research interests center on computational approaches to understanding human decision-making in social settings, and knowledge transfer mechanisms. Here's my [CV](/assets/pdf/CV.pdf).
 
-Outside of work, I like my friends, good writing of almost any kind, good music and films of all genres, mountains, running, (table) tennis, adventurous trips, and quality tea.
+Outside of work, I like good writing of almost any kind, good music and films of all genres, mountains, running, (table) tennis, and quality tea.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
