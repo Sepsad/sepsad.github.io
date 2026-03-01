@@ -40,12 +40,14 @@
   <main>
     <div class="masthead masthead--home">
       <div class="home-identity">
-        <img
-          src="assets/profile.jpg"
-          alt="Sepehr Saeedpour"
-          class="home-photo"
-          onerror="this.style.display='none'"
-        >
+        <div class="home-photo-wrap">
+          <img
+            src="assets/profile.jpg"
+            alt="Sepehr Saeedpour"
+            class="home-photo"
+            onerror="this.parentElement.style.display='none'"
+          >
+        </div>
         <div class="home-identity-text">
           <h1 class="name-display">Sepehr Saeedpour</h1>
           <p class="tagline">
