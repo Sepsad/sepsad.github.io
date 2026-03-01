@@ -1,0 +1,5 @@
+I am a [Normalien](https://www.ens.psl.eu) at ENS-PSL, where I am pursuing an M.Sc. in Cognitive Science on the cognitive modeling, neurotheory, and AI track. I am currently a Research Assistant at the [Institut des Systèmes Intelligents et de Robotique (ISIR)](https://www.isir.upmc.fr), Sorbonne Université, working with [Dr. Heike Stein](https://heike-stein.github.io) on the dynamics of head-direction circuits.
+
+My work sits at the intersection of computational neuroscience and reinforcement learning. I build models — Gaussian Process state-space models, behavioral RL models, Bayesian inference frameworks — to understand how brains represent space, make decisions, and transmit knowledge. I am drawn to questions where abstract mathematics touches something recognizably biological.
+
+Before Paris, I was an electrical engineer in Tehran. I coached an ICPC world-finalist programming team, ran a theater club, and spent too long staring at astrophysics competition problems. I still think these are not entirely unrelated to what I do now.
