@@ -1,3 +1,11 @@
+---
+layout: page.njk
+title: Research — Sepehr Saeedpour
+description: "Research by Sepehr Saeedpour — computational neuroscience, reinforcement learning, Gaussian Process models."
+navPage: research
+pageTitle: Research
+permalink: /research.html
+---
 ### Current work
 
 **Head-direction circuit dynamics** &mdash; 2025&ndash;present

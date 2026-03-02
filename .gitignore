@@ -11,3 +11,10 @@
 # Python (dev server)
 __pycache__/
 *.pyc
+
+# Neovim
+.nvim/
+
+# Node / Eleventy
+node_modules/
+_site/

@@ -1,0 +1,30 @@
+---
+layout: base.njk
+---
+<main>
+  <div class="masthead">
+    {% if errorCode %}<p class="error-code">{{ errorCode }}</p>{% endif %}
+    <h1 class="page-title">{{ pageTitle }}</h1>
+    <hr class="ruled-line">
+  </div>
+
+  <section class="section">
+    {% if showPhoto %}
+    <div class="about-body">
+      <img
+        src="/assets/photo2.jpg"
+        alt="Sepehr Saeedpour"
+        class="about-photo"
+        onerror="this.style.display='none'"
+      >
+      <div class="md-content">
+        {{ content | safe }}
+      </div>
+    </div>
+    {% else %}
+    <div class="md-content">
+      {{ content | safe }}
+    </div>
+    {% endif %}
+  </section>
+</main>

@@ -1,3 +1,11 @@
+---
+layout: page.njk
+title: Publications — Sepehr Saeedpour
+description: "Publications by Sepehr Saeedpour — papers in Royal Society Open Science, PLOS ONE."
+navPage: publications
+pageTitle: Publications
+permalink: /publications.html
+---
 ### Papers
 
 **Saeedpour, S.**, Miandari, M., Deroy, O., Bahrami, B. (2023). Interindividual differences in Pavlovian influence on learning are consistent. *Royal Society Open Science*. [doi.org/10.1098/rsos.230447](https://doi.org/10.1098/rsos.230447) &rarr;

@@ -1,0 +1,12 @@
+{
+  "name": "sepsad-github-io",
+  "version": "1.0.0",
+  "description": "Personal academic website",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "dev": "npx @11ty/eleventy --serve --port 3000"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
