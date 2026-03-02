@@ -6,6 +6,7 @@
 # Editor directories
 .vscode/
 .idea/
+.claude/
 
 # Python (dev server)
 __pycache__/
