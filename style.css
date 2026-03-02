@@ -176,9 +176,9 @@ hr.ruled-line {
 .home-nav {
   margin-top: var(--space-md);
   display: flex;
-  flex-wrap: wrap;
-  gap: var(--space-xs) 0;
-  align-items: center;
+  flex-direction: column;
+  gap: var(--space-xs);
+  align-items: flex-start;
 }
 
 .home-nav a {
@@ -192,11 +192,7 @@ hr.ruled-line {
 .home-nav a:hover { color: var(--color-accent); }
 
 .home-nav-sep {
-  font-family: var(--font-mono);
-  font-size: var(--size-meta);
-  color: var(--color-rule);
-  margin: 0 var(--space-sm);
-  user-select: none;
+  display: none;
 }
 
 /* --- Home identity (name + photo row) --------------------- */
@@ -231,7 +227,7 @@ hr.ruled-line {
 }
 
 @media (max-width: 520px) {
-  .home-identity    { flex-direction: column-reverse; gap: var(--space-sm); }
+  .home-identity    { flex-direction: column; gap: var(--space-sm); }
   .home-photo-wrap  { width: 80px; height: 80px; }
 }
 
