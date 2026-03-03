@@ -6,6 +6,11 @@ navPage: publications
 pageTitle: Publications
 permalink: /publications.html
 ---
+
+### Pre-prints
+Zhong, Z., Prystawski, B., Wu, S. A., Fascendini, B., **Saeedpour, S.**, Austerweil, J. L. (2026). Interpretational alignment: How agents learn from physical guidance depends on how they interpret it. *Submitted to CogSci Conference*.
+
+
 ### Papers
 
 **Saeedpour, S.**, Miandari, M., Deroy, O., Bahrami, B. (2023). Interindividual differences in Pavlovian influence on learning are consistent. *Royal Society Open Science*. [doi.org/10.1098/rsos.230447](https://doi.org/10.1098/rsos.230447) &rarr;
