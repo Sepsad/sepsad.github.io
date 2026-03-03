@@ -14,4 +14,4 @@ My work currently sits at the intersection of computational neuroscience and pro
 
 Before Paris, I studied electrical engineering at the University of Tehran, coached a world-finalist ICPC team, taught astronomy, co-ran a theater club, and worked as a part-time data analyst. I genuinely think all of it connects and figuring out **how** is half the fun.
 
-When I'm not doing science, I'm reading about the people who did the messy, deeply human process behind the clean results. The rest of the time I'm on foot somewhere in Paris, which turns out to be a get lost in.
+When I'm not doing science, I'm reading about the people behind it, exploring the messy, deeply human process that leads to those clean results. The rest of the time I'm on foot somewhere in Paris, which turns out to be very easy to get lost in.
