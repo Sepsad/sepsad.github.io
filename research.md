@@ -7,7 +7,7 @@ pageTitle: Research
 permalink: /research.html
 ---
 
-*knowledge isn't free, you have to pay attention. [Richard Feynman](https://en.wikiquote.org/wiki/Richard_Feynman)* 
+<!-- *knowledge isn't free, you have to pay attention. [Richard Feynman](https://en.wikiquote.org/wiki/Richard_Feynman)*  -->
 ### Current work
 
 **Head-direction circuit dynamics** &mdash; 2025&ndash;present
