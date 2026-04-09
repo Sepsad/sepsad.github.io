@@ -8,7 +8,7 @@ permalink: /publications.html
 ---
 
 ### Pre-prints
-Zhong, Z., Prystawski, B., Wu, S. A., Fascendini, B., **Saeedpour, S.**, Austerweil, J. L. (2026). Interpretational alignment: How agents learn from physical guidance depends on how they interpret it. *Submitted to CogSci Conference*.
+Zhong, Z., Prystawski, B., Wu, S. A., Fascendini, B., **Saeedpour, S.**, Austerweil, J. L. (2026). Interpretational alignment: How agents learn from physical guidance depends on how they interpret it. *Accepted in CogSci Conference*.
 
 
 ### Papers
