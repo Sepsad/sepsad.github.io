@@ -20,7 +20,7 @@ Modeling the dynamics of head-direction neurons using Gaussian Process state-spa
 
 **Knowledge transmission via teaching** &mdash; 2024&ndash;2025
 
-> ENS-PSL, [Human Reinforcement Learning Lab](https://lnc2.dec.ens.fr/en/human-reinforcement-learning) &mdash; Supervisor: [Dr. Stefano Palminteri]()
+> ENS-PSL, [Human Reinforcement Learning Lab](https://lnc2.dec.ens.fr/en/human-reinforcement-learning) &mdash; Co-Supervisor: [Dr. Stefano Palminteri](), [Dr. Hernan Anllo]()
 
 Designed and ran an online behavioral experiment (n = 50) to study how people transmit rule knowledge through teaching. Computational modeling of policy transfer between teacher and learner in a deterministic contextual bandit task.
 
