@@ -10,6 +10,8 @@ permalink: /publications.html
 ### Pre-prints
 Zhong, Z., Prystawski, B., Wu, S. A., Fascendini, B., **Saeedpour, S.**, Austerweil, J. L. (2026). Interpretational alignment: How agents learn from physical guidance depends on how they interpret it. *Accepted in CogSci Conference*.
 
+Aslani, A., **Saeedpour, S.**, Ferreiro, D., Bahrami, B., Deroy, O. (2026). Do touch screens work? Assessing individual engagement with video, touch, and phone screens in museums using mobile eye-tracking. *Under review, [Visitor Studies](https://en.wikipedia.org/wiki/Visitor_Studies_(journal)).*
+
 
 ### Papers
 
